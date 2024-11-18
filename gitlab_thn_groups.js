@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Gitlab Groups Link
+// @namespace    https://github.com/Emmibele/monkeyTampered/
 // @version      2024-11-18
 // @description  adds a link to the gitlab main menu directing to the groups
 // @author       Emmibele
